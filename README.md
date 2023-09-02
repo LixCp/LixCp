@@ -7,15 +7,13 @@ Hi There, I'm Reza, 22 Y.O. WebProgramer From IRAN
 
 ## Where to find me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pcping)
+[![NodeJs](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pcping)
 
 # Skills
 
 ### Languages
 
-![Nodejs]([https://img.shields.io/badge/nodejs%20-%20?logo=nodedotjs&labelColor=%23fff](https://img.shields.io/badge/NodeJs-%20?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%233776AB&color=%233776AB
-))
-
+![HTML](https://img.shields.io/badge/NodeJs-%20?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%233776AB&color=%233776AB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
